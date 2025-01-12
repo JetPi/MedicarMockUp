@@ -6,8 +6,8 @@ public abstract class User
     public string Name { get; set; }
     public string Email { get; set; }
     public string Password { get; set; }
-    public IdentityDocument Document { get; set; }
-    public string ProfilePhotoUrl { get; set; }
+    public IdentityDocument? Document { get; set; }
+    public string? ProfilePhotoUrl { get; set; }
     public readonly DateTime CreatedAt;
     public DateTime UpdatedAt { get; set; }
 }

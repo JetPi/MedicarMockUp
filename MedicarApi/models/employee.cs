@@ -3,7 +3,7 @@ using Types;
 
 public class EmployeeContext : DbContext
 {
-    public DbSet<Client> Clients { get; set; }
+    public DbSet<Employee> Employees { get; set; }
     public string DbPath { get; }
 
     public EmployeeContext()
