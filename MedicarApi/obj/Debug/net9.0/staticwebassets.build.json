@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "vnwcvTU/+UMi1/zHcL0itjiShQx+8E0BCBhFWhNTEGs=",
+  "Source": "MedicarApi",
+  "BasePath": "_content/MedicarApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
